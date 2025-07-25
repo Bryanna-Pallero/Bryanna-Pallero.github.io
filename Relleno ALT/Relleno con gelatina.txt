@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Relleno con Gelatina</title>
-<link rel="stylesheet" href="Relleno ALT.css">
 </head>
 <body style="background:#ffffe8">
     <h1><b>Relleno con Gelatina</b></h1>
